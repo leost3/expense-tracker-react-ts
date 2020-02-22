@@ -1,4 +1,5 @@
 import React from "react";
+import "./IncomeExpenses.scss";
 
 export const IncomeExpenses = () => {
   return (

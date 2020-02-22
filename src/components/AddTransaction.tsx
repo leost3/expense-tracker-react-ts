@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./AddTransaction.scss";
 
 export const AddTransaction = () => {
   const [text, setText] = useState<string>("");
